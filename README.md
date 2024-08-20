@@ -1,6 +1,6 @@
 # YAZILIM LİSANS TÜRLERİ
 **Yazılım lisans türleri , yazılımın kullanım , dağıtım ve geliştirme esaslarını belirleyen yasal belgelerdir. Kullanıcı ve geliştirici açısından önem taşıyan bu lisans belgelerini bilmek , uygulama ve geliştirme yapacak kişiler için büyük önem taşımaktadır.
-İşte en çok kullanılan yazılım linsns türleri ;**
+İşte en çok kullanılan yazılım lisans türleri ;**
 
 ## `1.` Free Software Licence( Özgür Yazılım Lisansı)
 **Kullanıcıya yazılımı özgürce kullanma, geliştirme, değiştirme ve dağıtma olanağı sağlar.En çok tercih edilen türleri  GNU Genel Kamu Lisansı (GPL), Apache Lisansı, MIT Lisansı. Tüm bu özgürlüğün yanısıra dikkat edilmesi gereken tek koşul, değiştirilen ve dağıtılan yazılımın kaynak kodlarının açık olması gerektiğidir. Ticari kullanımında herhangi bir sorun olmaz. Yani herhangi bir sorunda  geliştiriciler için herhangi bir yükümlülük söz konusu  olamaz.Bu da kullanıcıyı özgür kıldığı gibi geliştirici de özgür kılar. Dikkat edilmesi gereken bir diğer ayrıntıda MIT ile lisanslanmış bir yazılımı kullandığınızda, o yazılıma referans vermeniz gerekiyor.**
